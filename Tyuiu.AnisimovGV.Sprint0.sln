@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AnisimovGV.Sprint0.Task0.V0", "Tyuiu.AnisimovGV.Sprint0.Task0.V0\Tyuiu.AnisimovGV.Sprint0.Task0.V0.csproj", "{530E48AA-98A3-49AB-96D4-AC56F656955C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{89963136-A1D0-405A-83A8-7AE1D05EF946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AnisimovGV.Sprint0.Task1.V0", "Tyuiu.AnisimovGV.Sprint0.Task1.V0\Tyuiu.AnisimovGV.Sprint0.Task1.V0.csproj", "{7364391F-38E9-48EF-8DFB-FF9528C845AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{530E48AA-98A3-49AB-96D4-AC56F656955C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530E48AA-98A3-49AB-96D4-AC56F656955C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530E48AA-98A3-49AB-96D4-AC56F656955C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7364391F-38E9-48EF-8DFB-FF9528C845AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7364391F-38E9-48EF-8DFB-FF9528C845AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7364391F-38E9-48EF-8DFB-FF9528C845AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7364391F-38E9-48EF-8DFB-FF9528C845AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{530E48AA-98A3-49AB-96D4-AC56F656955C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7364391F-38E9-48EF-8DFB-FF9528C845AC} = {89963136-A1D0-405A-83A8-7AE1D05EF946}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A5AEB7A-79B3-4740-BAB0-1B093502B429}
